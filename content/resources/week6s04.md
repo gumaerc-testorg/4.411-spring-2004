@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Instructions for the second phase of the Ventilations lab assignment.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/4-411-building-technology-laboratory-spring-2004/ac78b3638e2fbb630198ce87c267f834_week6s04.pdf
+file: /media/courses/4-411-building-technology-laboratory-spring-2004/ac78b3638e2fbb630198ce87c267f834_week6s04.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: week6s04.pdf
 uid: ac78b363-8e2f-bb63-0198-ce87c267f834

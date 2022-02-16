@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Tutorial related to Lab 2.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/4-411-building-technology-laboratory-spring-2004/70f6a034a5903f700423cf812a826b7d_contamw_2tutoril.pdf
+file: /media/courses/4-411-building-technology-laboratory-spring-2004/70f6a034a5903f700423cf812a826b7d_contamw_2tutoril.pdf
 file_type: application/pdf
+learning_resource_types:
+- Labs
+ocw_type: OCWFile
+parent_title: Labs
+parent_type: CourseSection
 resourcetype: Document
 title: contamw_2tutoril.pdf
 uid: 70f6a034-a590-3f70-0423-cf812a826b7d
