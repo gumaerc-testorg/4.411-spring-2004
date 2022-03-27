@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: b8ce1dc3-2c7c-d522-11c5-67a01725d51e
 resourcetype: Document
 title: airflowcalc_ws.pdf
 uid: 7389cf42-73c5-bedb-edce-bd81fa003400

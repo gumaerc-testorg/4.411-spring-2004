@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: b8ce1dc3-2c7c-d522-11c5-67a01725d51e
 resourcetype: Document
 title: reprt1_checklist.pdf
 uid: be5441e1-6c9e-59a1-8063-62ceb272c42f

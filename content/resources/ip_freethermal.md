@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: eeff3cf2-dcae-0464-3c9c-7c760df9992d
 resourcetype: Document
 title: ip_freethermal.pdf
 uid: 0fe91b29-2b3e-4fd3-94b8-f87755ed683a

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: eeff3cf2-dcae-0464-3c9c-7c760df9992d
 resourcetype: Document
 title: ip_freventilaton.pdf
 uid: 076c66c6-1d5d-15d8-db56-e5a45f06a200
