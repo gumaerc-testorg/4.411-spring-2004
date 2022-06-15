@@ -2,7 +2,7 @@
 content_type: resource
 description: Instructions for completing the fourth and final phase of the first lab
   assignment.
-file: /media/courses/4-411-building-technology-laboratory-spring-2004/e5f7931fc55016aef32befbd087ead44_week4s04.pdf
+file: /courses/4-411-building-technology-laboratory-spring-2004/e5f7931fc55016aef32befbd087ead44_week4s04.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
@@ -14,3 +14,5 @@ resourcetype: Document
 title: week4s04.pdf
 uid: e5f7931f-c550-16ae-f32b-efbd087ead44
 ---
+Instructions for completing the fourth and final phase of the first lab assignment.
+

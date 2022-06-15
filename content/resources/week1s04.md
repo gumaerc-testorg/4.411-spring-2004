@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Instructions for completing the first phase of the first lab assignment.
-file: /media/courses/4-411-building-technology-laboratory-spring-2004/231785cbdcc63cc33877dc449fbf28fd_week1s04.pdf
+file: /courses/4-411-building-technology-laboratory-spring-2004/231785cbdcc63cc33877dc449fbf28fd_week1s04.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
@@ -13,3 +13,5 @@ resourcetype: Document
 title: week1s04.pdf
 uid: 231785cb-dcc6-3cc3-3877-dc449fbf28fd
 ---
+Instructions for completing the first phase of the first lab assignment.
+
