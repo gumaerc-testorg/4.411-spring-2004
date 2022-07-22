@@ -5,6 +5,7 @@ file: /courses/4-411-building-technology-laboratory-spring-2004/70f6a034a5903f70
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: contamw_2tutoril.pdf
 uid: 70f6a034-a590-3f70-0423-cf812a826b7d
 ---
 Tutorial related to Lab 2.
-

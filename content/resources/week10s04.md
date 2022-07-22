@@ -5,6 +5,7 @@ file: /courses/4-411-building-technology-laboratory-spring-2004/b14826c6e1ca73fd
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: week10s04.pdf
 uid: b14826c6-e1ca-73fd-801b-ca3ed0275fa7
 ---
 Reading assignment and instructions for the written assignment.
-

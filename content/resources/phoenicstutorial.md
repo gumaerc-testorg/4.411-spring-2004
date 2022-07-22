@@ -5,6 +5,7 @@ file: /courses/4-411-building-technology-laboratory-spring-2004/32f81df946bac5b0
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: phoenicstutorial.pdf
 uid: 32f81df9-46ba-c5b0-81c1-906448363722
 ---
 Tutorial related to Lab 2.
-

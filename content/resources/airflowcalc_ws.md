@@ -6,6 +6,7 @@ file: /courses/4-411-building-technology-laboratory-spring-2004/7389cf4273c5bedb
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: airflowcalc_ws.pdf
 uid: 7389cf42-73c5-bedb-edce-bd81fa003400
 ---
 This handout contains the airflow calculation worksheet related to Lab 2.
-

@@ -5,6 +5,7 @@ file: /courses/4-411-building-technology-laboratory-spring-2004/8e420a1006044810
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: week3s04.pdf
 uid: 8e420a10-0604-4810-34b0-1fe7b3976644
 ---
 Instructions for completing the third phase of the first lab assignment.
-

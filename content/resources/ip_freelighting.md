@@ -5,6 +5,7 @@ file: /courses/4-411-building-technology-laboratory-spring-2004/63a8058df4134245
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: ip_freelighting.pdf
 uid: 63a8058d-f413-4245-4bae-fad343731219
 ---
 Handwritten notes from the lectures on daylighting.
-

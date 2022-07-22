@@ -5,6 +5,7 @@ file: /courses/4-411-building-technology-laboratory-spring-2004/076c66c61d5d15d8
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: ip_freventilaton.pdf
 uid: 076c66c6-1d5d-15d8-db56-e5a45f06a200
 ---
 Handwritten notes from the lectures on ventilation.
-

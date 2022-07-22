@@ -5,6 +5,7 @@ file: /courses/4-411-building-technology-laboratory-spring-2004/f7bf9447854b8b3e
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection

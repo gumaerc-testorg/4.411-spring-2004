@@ -5,6 +5,7 @@ file: /courses/4-411-building-technology-laboratory-spring-2004/d173e59c3f207ede
 file_type: application/msword
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: solarcalculatrv1.xls
 uid: d173e59c-3f20-7ede-88d4-81b719da4556
 ---
 This spreadsheet contains data related to Lab Assignment 1.
-

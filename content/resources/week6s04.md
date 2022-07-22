@@ -5,6 +5,7 @@ file: /courses/4-411-building-technology-laboratory-spring-2004/ac78b3638e2fbb63
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: week6s04.pdf
 uid: ac78b363-8e2f-bb63-0198-ce87c267f834
 ---
 Instructions for the second phase of the Ventilations lab assignment.
-

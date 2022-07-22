@@ -5,6 +5,7 @@ file: /courses/4-411-building-technology-laboratory-spring-2004/df540db22c85b1cb
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: images.pdf
 uid: df540db2-2c85-b1cb-dc86-c1f4a0b09dc9
 ---
 Images of student lab projects.
-

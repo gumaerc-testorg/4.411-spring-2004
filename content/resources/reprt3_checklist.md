@@ -5,6 +5,7 @@ file: /courses/4-411-building-technology-laboratory-spring-2004/b7f5b209c566bb34
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: reprt3_checklist.pdf
 uid: b7f5b209-c566-bb34-6118-1e6f071e2ba6
 ---
 Lab report checklist for Lab 3.
-
