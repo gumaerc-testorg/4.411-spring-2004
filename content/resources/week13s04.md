@@ -2,6 +2,7 @@
 content_type: resource
 description: Instructions for homework assignment.
 file: /courses/4-411-building-technology-laboratory-spring-2004/eca3aae018d36ce4e73be26dfaa39d04_week13s04.pdf
+file_size: 16960
 file_type: application/pdf
 learning_resource_types:
 - Assignments

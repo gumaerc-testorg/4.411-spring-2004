@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture presentation materials courtesy of Jinchao Yuan. Used with permission.
 file: /courses/4-411-building-technology-laboratory-spring-2004/fbcd1f3bb1c5fb50ecbe710549ca67b2_cfdapp2.pdf
+file_size: 2396492
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
