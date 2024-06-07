@@ -2,6 +2,7 @@
 content_type: resource
 description: Handwritten notes from the lectures on thermal comfort.
 file: /courses/4-411-building-technology-laboratory-spring-2004/0fe91b292b3e4fd394b8f87755ed683a_ip_freethermal.pdf
+file_size: 1791060
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -2,6 +2,7 @@
 content_type: resource
 description: Reading assignment and instructions for the written assignment.
 file: /courses/4-411-building-technology-laboratory-spring-2004/b14826c6e1ca73fd801bca3ed0275fa7_week10s04.pdf
+file_size: 76440
 file_type: application/pdf
 learning_resource_types:
 - Assignments

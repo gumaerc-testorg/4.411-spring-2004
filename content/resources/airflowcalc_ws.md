@@ -3,6 +3,7 @@ content_type: resource
 description: This handout contains the airflow calculation worksheet related to Lab
   2.
 file: /courses/4-411-building-technology-laboratory-spring-2004/7389cf4273c5bedbedcebd81fa003400_airflowcalc_ws.pdf
+file_size: 59879
 file_type: application/pdf
 learning_resource_types:
 - Labs
