@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/4-411-building-technology-laboratory-spring-2004/c9fac947850ec20dd69731b421239df8_cfd_app_prt1.pdf
+file_size: 1711073
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

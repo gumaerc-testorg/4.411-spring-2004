@@ -2,6 +2,7 @@
 content_type: resource
 description: Presentation of an introduction to Lightscape.
 file: /courses/4-411-building-technology-laboratory-spring-2004/f3f36db39bdc9201c132308c1555a618_ipfreelightintro.pdf
+file_size: 2736255
 file_type: application/pdf
 learning_resource_types:
 - Labs
