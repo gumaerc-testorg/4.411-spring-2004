@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Instructions for completing the first phase of the first lab assignment.
-file: /courses/4-411-building-technology-laboratory-spring-2004/231785cbdcc63cc33877dc449fbf28fd_week1s04.pdf
+file: /ol-ocw-studio-app/courses/4-411-building-technology-laboratory-spring-2004/231785cbdcc63cc33877dc449fbf28fd_week1s04.pdf
 file_size: 24416
 file_type: application/pdf
 learning_resource_types:
