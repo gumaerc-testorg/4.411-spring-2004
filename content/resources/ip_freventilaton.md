@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Handwritten notes from the lectures on ventilation.
-file: /ol-ocw-studio-app/courses/4-411-building-technology-laboratory-spring-2004/076c66c61d5d15d8db56e5a45f06a200_ip_freventilaton.pdf
+file: /courses/4-411-building-technology-laboratory-spring-2004/076c66c61d5d15d8db56e5a45f06a200_ip_freventilaton.pdf
 file_size: 1651365
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Instructions for the third phase of the Ventilations lab assignment.
-file: /ol-ocw-studio-app/courses/4-411-building-technology-laboratory-spring-2004/a56a9891bd2e8564fffbbf1198c8d86e_week7s04.pdf
+file: /courses/4-411-building-technology-laboratory-spring-2004/a56a9891bd2e8564fffbbf1198c8d86e_week7s04.pdf
 file_size: 13340
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lab report checklist for Lab Assignment 1.
-file: /ol-ocw-studio-app/courses/4-411-building-technology-laboratory-spring-2004/be5441e16c9e59a1806362ceb272c42f_reprt1_checklist.pdf
+file: /courses/4-411-building-technology-laboratory-spring-2004/be5441e16c9e59a1806362ceb272c42f_reprt1_checklist.pdf
 file_size: 12687
 file_type: application/pdf
 learning_resource_types:
