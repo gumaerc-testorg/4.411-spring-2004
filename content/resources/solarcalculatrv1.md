@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This spreadsheet contains data related to Lab Assignment 1.
-file: /ol-ocw-studio-app/courses/4-411-building-technology-laboratory-spring-2004/d173e59c3f207ede88d481b719da4556_solarcalculatrv1.xls
+file: /courses/4-411-building-technology-laboratory-spring-2004/d173e59c3f207ede88d481b719da4556_solarcalculatrv1.xls
 file_size: 64512
 file_type: application/msword
 learning_resource_types:

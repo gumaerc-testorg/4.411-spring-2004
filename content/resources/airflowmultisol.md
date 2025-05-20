@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This spreadsheet contains airflow data related to Lab 2.
-file: /ol-ocw-studio-app/courses/4-411-building-technology-laboratory-spring-2004/ad07a438d859d3ac4391ad5aef646805_airflowmultisol.xls
+file: /courses/4-411-building-technology-laboratory-spring-2004/ad07a438d859d3ac4391ad5aef646805_airflowmultisol.xls
 file_size: 27648
 file_type: application/msword
 learning_resource_types:
