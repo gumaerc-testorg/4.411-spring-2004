@@ -1,11 +1,11 @@
 ---
 content_type: resource
 description: Tutorial related to Lab 2.
-file: /courses/4-411-building-technology-laboratory-spring-2004/70f6a034a5903f700423cf812a826b7d_contamw_2tutoril.pdf
+file: /ol-ocw-studio-app/courses/4-411-building-technology-laboratory-spring-2004/70f6a034a5903f700423cf812a826b7d_contamw_2tutoril.pdf
 file_size: 221073
 file_type: application/pdf
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Handwritten notes from the lectures on daylighting.
-file: /courses/4-411-building-technology-laboratory-spring-2004/63a8058df41342454baefad343731219_ip_freelighting.pdf
+file: /ol-ocw-studio-app/courses/4-411-building-technology-laboratory-spring-2004/63a8058df41342454baefad343731219_ip_freelighting.pdf
 file_size: 1839112
 file_type: application/pdf
 learning_resource_types:
