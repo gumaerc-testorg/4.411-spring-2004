@@ -1,11 +1,11 @@
 ---
 content_type: resource
 description: Lab report checklist for Lab 3.
-file: /courses/4-411-building-technology-laboratory-spring-2004/b7f5b209c566bb3461181e6f071e2ba6_reprt3_checklist.pdf
+file: /ol-ocw-studio-app/courses/4-411-building-technology-laboratory-spring-2004/b7f5b209c566bb3461181e6f071e2ba6_reprt3_checklist.pdf
 file_size: 17128
 file_type: application/pdf
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
